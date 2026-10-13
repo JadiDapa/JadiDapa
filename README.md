@@ -2,7 +2,7 @@
 
 # Daffa Althaf Ridovani
 
-### Software Engineer · Full-Stack Developer · Electrical Engineering Graduate
+### Software Engineer · Electrical Instrument Control Enginee
 
 Building software that solves real operational problems — from web platforms and APIs to industrial IoT, automation, and computer vision.
 
